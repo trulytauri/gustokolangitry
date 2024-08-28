@@ -1,0 +1,47 @@
+			h1 {
+				color: green;
+				font-size: 80px;
+				}
+			h2 {
+				margin-bottom: 50px;
+				color: red;
+				font-size: 30px;
+				font-weight: 300;
+				font-family: "helvetica";
+				}
+			p1 {
+				color: blue;
+				font-size: 20px;
+				font-weight: 200; 
+				font-family: "sans-serif";
+				text-align: center;
+				}
+			.button-1 {
+				color: white;
+				background-color: blue;
+				}
+			.button-2 {
+				color: white;
+				background-color: blue;
+				font-weight:900;
+				padding: 20px;
+				}
+			.button-3 {
+				border: 1px solid #000;
+				width: 100%;
+				}
+			#unique {
+				font-weight: 900;
+				background-color: red;
+				color: #fff;
+				padding: 10px;
+				border-radius:10px
+				width: 150%;
+				}
+			iframe {
+				border: 5px solid red;
+				}
+			div {
+				border: 10px solid red;
+				color: pink;
+				}
